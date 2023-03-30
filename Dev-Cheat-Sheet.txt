@@ -1,0 +1,39 @@
+𝟒𝟎+ 𝐌𝐮𝐬𝐭-𝐇𝐚𝐯𝐞 𝐂𝐡𝐞𝐚𝐭 𝐒𝐡𝐞𝐞𝐭𝐬 𝐟𝐨𝐫 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬 :
+
+📝 HTML Cheat Sheet: https://lnkd.in/dPK6XQJH
+📝 CSS Cheat Sheet: https://lnkd.in/dRdnJrz6
+📝 JavaScript Cheat Sheet: https://lnkd.in/dC6C7jdy
+📝 jQuery Cheat Sheet: https://lnkd.in/dubFVsnp
+📝 PHP Cheat Sheet: https://lnkd.in/dFzXcegD
+📝 MySQL Cheat Sheet: https://lnkd.in/dhuKZTze
+📝 Git Cheat Sheet: https://lnkd.in/d_E6tJxs
+📝 Bootstrap Cheat Sheet: https://lnkd.in/dzv9pq8m
+📝 Node.js Cheat Sheet: https://overapi.com/nodejs
+📝 React Cheat Sheet: https://lnkd.in/dXnmzPMX
+📝 Vue.js Cheat Sheet: https://lnkd.in/dHBbxqGk
+📝 Angular Cheat Sheet: https://lnkd.in/dpp2qzPV
+📝 Express.js Cheat Sheet: https://lnkd.in/dyjDkZd6
+📝 Flask Cheat Sheet: https://lnkd.in/dEs9AQJj
+📝 Django Cheat Sheet: https://lnkd.in/dGjzXrAv
+📝 GraphQL Cheat Sheet: https://lnkd.in/dis5cVqK
+📝 REST API Cheat Sheet: https://lnkd.in/dTmuUBCy
+📝 Postman Cheat Sheet: https://lnkd.in/dEDmFXBq
+📝 Regular Expressions Cheat Sheet: https://lnkd.in/dqG_7jv7
+📝 HTTP Status Codes Cheat Sheet: https://httpstatuses.com/
+📝 Design Patterns Cheat Sheet: https://lnkd.in/dGB4Q5m7
+📝 Google Analytics Cheat Sheet: https://lnkd.in/dHUi5bcx
+📝 SEO Cheat Sheet: https://lnkd.in/d8etZMsi
+📝 Performance Optimization Cheat Sheet: https://lnkd.in/dkCCsBrg
+📝 UX Design Cheat Sheet: https://lnkd.in/dQepv6Rx
+📝 Accessibility Cheat Sheet: https://lnkd.in/dXGsa5gc
+📝 Git Commands Cheat Sheet: https://lnkd.in/d_E6tJxs
+📝 GitHub Markdown Cheat Sheet: https://lnkd.in/dJWQKkPu
+📝 Nginx Cheat Sheet: https://devhints.io/nginx
+📝 Docker Cheat Sheet: https://lnkd.in/dTT8cYvW
+📝 Kubernetes Cheat Sheet: https://lnkd.in/dSZNgczm
+📝 Linux Commands Cheat Sheet: https://lnkd.in/du8eVm4B
+📝 Bash Scripting Cheat Sheet: https://devhints.io/bash
+📝 VS Code Cheat Sheet: https://lnkd.in/duBJTc7c
+📝 SASS Cheat Sheet:
+https://devhints.io/sass
+📝 LESS Cheat Sheet: https://devhints.io/less
